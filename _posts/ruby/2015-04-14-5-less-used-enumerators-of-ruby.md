@@ -3,7 +3,7 @@ layout: post
 title:  "5 less used Enumerators of Ruby"
 date:   2015-04-14
 categories: ruby
-tags: ruby
+tags: [ruby]
 ---
 
 This is a repost from [this article](http://codingwithaxe.com/5-less-used-enumerators-of-ruby). It is about 5 less known Enumerators is Ruby.

@@ -1,2 +1,8 @@
 - slug: ruby
   name: ruby
+- slug: rspec
+  name: rspec
+- slug: rails
+  name: rails
+- slug: git
+  name: git

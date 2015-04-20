@@ -2,13 +2,11 @@
 title: HaChan's World
 email: hades.24791@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am currently working as a Ruby on Rails developer at Framgia Viet Nam. This blog is the place that I'll post stuffs that I've learned through my daily life.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: hades_247
 github_username:  HaChan
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet

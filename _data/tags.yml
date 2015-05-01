@@ -6,3 +6,5 @@
   name: rails
 - slug: git
   name: git
+- slug: rbenv
+  name: rbenv

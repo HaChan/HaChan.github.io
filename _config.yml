@@ -10,3 +10,5 @@ github_username:  HaChan
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions:    ["with_toc_data"]
